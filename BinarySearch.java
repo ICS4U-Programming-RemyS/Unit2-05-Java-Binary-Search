@@ -9,7 +9,7 @@ import java.util.Scanner;
 *
 * @author Remy Skelton
 * @version 1.0
-* @since 2025-03-18
+* @since 2025-03-26
 */
 
 final class BinarySearch {
